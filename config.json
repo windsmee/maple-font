@@ -23,7 +23,7 @@
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "ignore",
-    "cv03": "enable",
+    "cv03": "ignore",
     "cv04": "ignore",
     "cv05": "ignore",
     "cv06": "enable",
@@ -40,7 +40,7 @@
     "cv36": "enable",
     "cv37": "enable",
     "cv38": "ignore",
-    "cv39": "ignore",
+    "cv39": "enable",
     "cv40": "enable",
     "cv41": "ignore",
     "cv42": "ignore",
